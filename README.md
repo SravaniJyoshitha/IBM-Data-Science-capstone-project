@@ -1,5 +1,4 @@
-# IBM-Data-Science-capstone-project
-🚀 SpaceX Falcon 9 Launch Success Prediction
+# SpaceX Falcon 9 Launch Success Prediction
 
 📌 Project Overview
 
