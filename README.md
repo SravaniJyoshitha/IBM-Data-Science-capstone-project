@@ -1,12 +1,12 @@
 # SpaceX Falcon 9 Launch Success Prediction
 
-📌## Project Overview
+📌1. Project Overview
 
 SpaceX significantly reduces the cost of space missions by reusing the Falcon 9 first stage. The success of a Falcon 9 landing directly impacts launch cost and mission planning.
 
 This project aims to predict whether the Falcon 9 first stage will successfully land using historical launch data and machine learning techniques.
 
-🎯 Objectives
+🎯2. Objectives
 
 Collect SpaceX launch data using APIs and web scraping
 
@@ -16,7 +16,7 @@ Build machine learning models to predict launch success
 
 Identify key factors influencing Falcon 9 landing outcomes
 
-📊 Dataset
+📊3. Dataset
 
 Source:
 
@@ -42,7 +42,7 @@ Booster version
 
 Number of previous launches
 
-🛠️ Technologies Used
+🛠️4. Technologies Used
 
 Programming Language: Python
 
@@ -60,7 +60,7 @@ BeautifulSoup (web scraping)
 
 SQL (data querying)
 
-🔍 Project Workflow
+🔍5. Project Workflow
 
 Data Collection
 
@@ -86,28 +86,28 @@ Feature Engineering
 
 Feature scaling
 
-Model Building
+6.Model Building - 
 
-Logistic Regression
+  Logistic Regression
 
-Support Vector Machine (SVM)
+  Support Vector Machine (SVM)
 
-Decision Tree
+  Decision Tree
 
-K-Nearest Neighbors (KNN)
+  K-Nearest Neighbors (KNN)
 
-Model Evaluation
+7. Model Evaluation
 
-Accuracy score
+  Accuracy score
 
-Confusion matrix
+  Confusion matrix
 
-Model comparison
+  Model comparison
 
-📈 Results & Insights
+📈8. Results & Insights
 
-Launch success is strongly influenced by payload mass and orbit type
+  Launch success is strongly influenced by payload mass and orbit type
 
-Certain launch sites have higher success rates
+  Certain launch sites have higher success rates
 
-Decision Tree Model achieved better performance than baseline models with accuracy of 87%
+  Decision Tree Model achieved better performance than baseline models with accuracy of 87%
